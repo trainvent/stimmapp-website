@@ -1,1 +1,0 @@
-# stimmapp-website
